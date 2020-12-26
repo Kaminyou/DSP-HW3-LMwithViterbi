@@ -1,0 +1,2 @@
+./mydisambig ./test_data/example_seg.txt ./ZhuYin-Big5.map bigram.lm ./test_data/example_myout.txt
+./mydisambig ./test_data/example_seg.txt ./ZhuYin-Big5.map trigram.lm ./test_data/example_myout_tri.txt 3
