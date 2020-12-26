@@ -1,1 +1,1 @@
-docker run -v /home/kaminyou/DSP/dsp_hw3/:/root/dsp_hw3/ -it ntudsp2020autumn/srilm
+docker run -v /home/name_and_path/this_folder/:/root/dsp_hw3/ -it ntudsp2020autumn/srilm
